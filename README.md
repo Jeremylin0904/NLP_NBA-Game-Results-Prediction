@@ -10,7 +10,7 @@ The goal of this project is to predict game results (e.g., win or loss) of the L
 
 - [`twitter.ipynb`](twitter.ipynb): This Jupyter notebook contains the code for scraping tweets using the [`snscrape.modules.twitter`](https://github.com/JustAnotherArchivist/snscrape) library, extracting relevant information from tweets, and preprocessing the text data.
 - [`NLP_Final.ipynb`](NLP_Final.ipynb): This Jupyter notebook contains the code for building and training the deep learning model. It includes loading word embeddings, processing game statistics data, concatenating latent representations of text and numerical inputs, defining and training the model, and evaluating its performance.
-- [`GoogleNews-vectors-negative300.bin.gz`](GoogleNews-vectors-negative300.bin.gz): This file contains pre-trained word embeddings used in the project.
+- [`GoogleNews-vectors-negative300.bin.gz`](https://code.google.com/archive/p/word2vec/): This file contains pre-trained word embeddings used in the project.
 
 ## Results
 
