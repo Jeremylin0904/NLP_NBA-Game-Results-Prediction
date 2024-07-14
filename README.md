@@ -1,5 +1,7 @@
 # NLP Project: Predicting Game Results using Twitter Data and Game Statistics
 
+![Results](results.jpg)
+
 This repository contains the code and resources for a Natural Language Processing (NLP) final project aimed at predicting game results using tweets from various sources and game statistics from [Basketball-Reference.com](https://www.basketball-reference.com/). The project utilizes a combination of text scraping, word embedding, and deep learning techniques.
 
 ## Project Overview
